@@ -1,17 +1,18 @@
 ## US Government APIs
 
-### What lists exist?  
-* My list 
-* Data.gov 
-* ProgrammableWeb 
+### Goals of this Project 
+
+* Assemble the machine-readable catalogs of US Government APIs.  
+* Visualize these catalogs next to each other to easily call out what is missing from each catalog
+* Promote automation of the upkeep of these projects 
 * What else?  
 
-### How can I help this project?  
-* Help update this [list of API](http://18f.github.io/API-All-the-X/pages/individual_apis) with [these](https://github.com/GSA/slash-developer-pages/issues?q=is%3Aopen+sort%3Acreated-desc)
-* Improve the visualizations of this website
 
+### Pages 
 
-
+* [18F List]()
+* [Other Lists]()
+* [How Can You Help This Project]()
 
 
 
