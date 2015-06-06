@@ -28,7 +28,7 @@ navigation:
 - text: API Listing on Data.gov
   url: datagov/
   internal: true  
-- text: Other Lists
+- text: 3rd-Party Catalogs
   url: other-lists/
   internal: true
 - text: Short Term Fixes
