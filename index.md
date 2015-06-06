@@ -4,12 +4,14 @@ layout: default
 title: Introduction
 ---
 
-This project attempts to provide quick access to all US Federal APIs.  There are a few lists that approach this goal but none are perfect.  The goals for this site include a catalog that is:  
+This project attempts to provide quick access to all US Federal APIs.  There are a few lists that approach this goal but none are perfect.  The goals for this project is to promote a catalog that is:  
 
 * Comprehensive and Up-To-Date  
 * Automatically Maintained   
 * Supportive of Publication Elsewhere  
   
+This project does not desire to create a _new_ catalog, but rather to find and bring together API catalogs that already exist.  
+
 ## The Plan
 
 1. [Find any other catalogs of Federal APIs](https://github.com/unitedstates/APIs/issues/8)
