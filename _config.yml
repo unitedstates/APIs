@@ -1,6 +1,6 @@
-baseurl: /guides-template
+baseurl: /
 markdown: redcarpet
-name: 18F Guides Template
+name: US Government APIs
 exclude:
 - go
 - copy-template
@@ -13,12 +13,12 @@ permalink: pretty
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
-  url: https://18f.gsa.gov
+  name: Gray Brooks
+  url: https://pages.18f.gov/API-All-the-X/
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/18f-logo.png
-logoalt: 18F logo
+logoalt: GovAPI logo
 
 # Navigation
 # List links that should appear in the site sidebar here
@@ -43,11 +43,11 @@ navigation:
   internal: true
 
 repos:
-- name: Guides Template
+- name: govapi.github.io
   description: Main repository
-  url: https://github.com/18F/guides-template
+  url: https://github.com/govapi/govapi.github.io
 
 # Style Variables
 brand_color: "#1188ff"
 
-google_analytics_ua: UA-48605964-19
+google_analytics_ua: 
