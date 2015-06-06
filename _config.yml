@@ -27,10 +27,10 @@ navigation:
   url: index.html
   internal: true
 - text: Other Lists
-  url: other-lists.html
+  url: other-lists/
   internal: false
 - text: How You Can Help
-  url: help.html
+  url: help/
   internal: false
 
 repos:
