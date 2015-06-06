@@ -23,6 +23,12 @@ We should build a means by which the API listing of Data.gov can be automaticall
 
 ...
 
+
+## Reward Good Accounting of APIs ??
+* SEO-friendly page or site that attracts logical queries [e.g. `census API`]
+* Enable automatic updates to other catalogs
+* What else?  
+
 ## Requests for New APIs 
 
 Data.gov now has a data requests functionality ([form here](http://www.data.gov/data-request/), [submissions here](http://www.data.gov/requests/)).  We've [requested an optional field be added](https://github.com/GSA/data.gov/issues/642) to allow someone to clarify that they are requesting an API, as well as [API access to the data requests](https://github.com/GSA/data.gov/issues/643).  With these, we would be able to easily pull out API requests by agency.  
