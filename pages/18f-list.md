@@ -4,7 +4,7 @@ layout: default
 title: 18F List
 ---
 
-This list is manually maintained as part of the [/Developer Program](https://pages.18f.gov/API-All-the-X/), a project of [](https://18f.gsa.gov/).  It's a fairly comprehensive list but is manually maintained (with a significant [backlog](https://github.com/GSA/slash-developer-pages/issues?q=is%3Aopen+sort%3Acreated-desc) that needs to be [integrated](https://github.com/18F/API-All-the-X/edit/gh-pages/_data/individual_apis.yml)).  
+This list is part of the [/Developer Program](https://pages.18f.gov/API-All-the-X/), a project of [](https://18f.gsa.gov/).  It's a fairly comprehensive list but is manually maintained (with a significant [backlog](https://github.com/GSA/slash-developer-pages/issues?q=is%3Aopen+sort%3Acreated-desc) that needs to be [integrated](https://github.com/18F/API-All-the-X/edit/gh-pages/_data/individual_apis.yml)).  
 
 ------  
 
