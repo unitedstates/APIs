@@ -38,10 +38,7 @@ navigation:
   url: sustainable-model/
   internal: true
 - text: How You Can Help
-  url: help/
-  internal: true
-- text: Feedback
-  url: https://github.com/unitedstates/APIs/issues
+  url: https://github.com/unitedstates/APIs/labels/help%20wanted
   internal: false
 
 repos:
