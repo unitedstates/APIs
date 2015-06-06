@@ -28,13 +28,13 @@ navigation:
   internal: true
 - text: 18F List
   url: /18f-list/
-  internal: false
+  internal: true
 - text: Other Lists
   url: /other-lists/
-  internal: false
+  internal: true
 - text: How You Can Help
   url: /help/
-  internal: false
+  internal: true
 
 repos:
 - name: APIs
