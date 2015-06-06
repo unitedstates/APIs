@@ -26,6 +26,12 @@ navigation:
 - text: Home
   url: index.html
   internal: true
+- text: Other Lists
+  url: other-lists.html
+  internal: true
+- text: How You Can Help
+  url: help.html
+  internal: true
 
 repos:
 - name: govapi.github.io
