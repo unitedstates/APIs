@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: http://govapi.github.io/
 markdown: redcarpet
 name: US Government APIs
 exclude:
