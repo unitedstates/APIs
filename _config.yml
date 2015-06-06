@@ -24,13 +24,16 @@ logoalt: GovAPI logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: index.html
+  url: /
   internal: true
 - text: Other Lists
-  url: other-lists/
+  url: /other-lists/
+  internal: false
+- text: Other Lists
+  url: /18f-list/
   internal: false
 - text: How You Can Help
-  url: help/
+  url: /help/
   internal: false
 
 repos:
