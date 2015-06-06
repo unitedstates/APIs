@@ -1,4 +1,4 @@
-baseurl: http://govapi.github.io/
+baseurl: https://theunitedstates.io/APIs
 markdown: redcarpet
 name: US Government APIs
 exclude:
@@ -37,11 +37,9 @@ navigation:
   internal: false
 
 repos:
-- name: govapi.github.io
+- name: APIs
   description: Main repository
-  url: https://github.com/govapi/govapi.github.io
+  url: https://github.com/unitedstates/APIs
 
 # Style Variables
 brand_color: "#1188ff"
-
-google_analytics_ua: 
