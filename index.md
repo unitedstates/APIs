@@ -4,12 +4,7 @@ layout: default
 title: Introduction
 ---
 
-[CSV](http://18f.github.io/API-All-the-X/data/individual_apis.csv) - [JSON](http://18f.github.io/API-All-the-X/data/individual_apis.json) - [XML](http://18f.github.io/API-All-the-X/data/individual_apis.xml) - [YML](https://raw.githubusercontent.com/18F/API-All-the-X/gh-pages/_data/individual_apis.yml) - *[[Edit](https://github.com/18F/API-All-the-X/edit/gh-pages/_data/individual_apis.yml)]*
-
-
-
-<iframe src="http://18f.github.io/API-All-the-X/data/individual_apis" frameborder="0" width="800" height="17000"></iframe>
-
-
-
-
+This project attempts to provide quick access to all US Federal APIs.  There are a few lists that approach this goal but none are perfect.  The goals for this site include a catalog that is:  
+* Comprehensive and Up-To-Date
+* Automatically Maintained 
+* Supportive of Publication Elsewhere
