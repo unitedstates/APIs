@@ -17,7 +17,7 @@ These are partial lists of US government APIs.
 
 ### Notes 
     
-* How can I query the PW API?  
-* How can I query the PublicAPIs.com API?  
+* [How can I query the PW API](https://github.com/unitedstates/APIs/issues/16)?  
+* [Is there a PublicAPIs.com API that I can query](https://github.com/unitedstates/APIs/issues/17)?  
 * Are there tags that clarify federal as opposed to state/local/international government APIs?  
 
