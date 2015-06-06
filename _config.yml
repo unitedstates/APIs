@@ -27,13 +27,13 @@ navigation:
   url: /
   internal: true
 - text: 18F List
-  url: /18f-list/
+  url: 18f-list/
   internal: true
 - text: Other Lists
-  url: /other-lists/
+  url: other-lists/
   internal: true
 - text: How You Can Help
-  url: /help/
+  url: help/
   internal: true
 
 repos:
