@@ -14,4 +14,5 @@ title: API Listing on Data.gov
 
 ## Notes 
 
-  * The Data.gov catalog is missing many APIs from the 18F list 
+  * The Data.gov catalog is missing many APIs from the 18F list.
+  * We need to confirm that the Data.gov API search query above reflects the APIs delineated by the `"format":"API"` requirement detailed [here](https://project-open-data.cio.gov/v1.1/api/). 
