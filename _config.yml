@@ -26,11 +26,11 @@ navigation:
 - text: Home
   url: /
   internal: true
-- text: Other Lists
-  url: /other-lists/
+- text: 18F List
+  url: /18f-list/
   internal: false
 - text: Other Lists
-  url: /18f-list/
+  url: /other-lists/
   internal: false
 - text: How You Can Help
   url: /help/
