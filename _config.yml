@@ -28,6 +28,12 @@ navigation:
 - text: Other Lists
   url: other-lists/
   internal: true
+- text: Short Term Fixes
+  url: short-term-fixes/
+  internal: true
+- text: A Sustainable Model
+  url: sustainable-model/
+  internal: true
 - text: How You Can Help
   url: help/
   internal: true
