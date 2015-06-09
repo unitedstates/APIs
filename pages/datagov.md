@@ -9,7 +9,7 @@ title: API Listing on Data.gov
 
 
 ## How is this updated?  
-* [Guide to Including APIs in the Agency Data Catalog](http://18f.github.io/API-All-the-X/pages/apis_in_data_catalogs)
+* [Guide to Including APIs in the Agency Data Catalog](http://pages.18f.gov/API-All-the-X/pages/apis_in_data_catalogs)
 * [Official Directions](https://project-open-data.cio.gov/v1.1/api/)
 
 ## Notes 
