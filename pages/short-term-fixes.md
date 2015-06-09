@@ -8,7 +8,7 @@ These short term efforts will better reconcile the various API catalogs, making 
 
 ## Address the 18F List backlog 
 
-The 18F List is a human curated list of federal APIs.  It lists many that are not yet included in other catalogs.  There are numerous new APIs in the [backlog](https://github.com/GSA/slash-developer-pages/issues?q=is%3Aopen+sort%3Acreated-desc) that need to be added to the list's [source file](https://github.com/18F/API-All-the-X/blob/gh-pages/_data/individual_apis.yml).
+The 18F List is a human curated list of federal APIs.  It lists many that are not yet included in other catalogs.  There are numerous new APIs in the [backlog](https://github.com/GSA/slash-developer-pages/issues?q=is%3Aopen+sort%3Acreated-desc) that need to be added to the list's [source file](https://github.com/18F/API-All-the-X/blob/18f-pages/_data/individual_apis.yml).
 
 ## Cross reference the 18F List against the API listings of Data.gov and engage agencies with the results 
 
