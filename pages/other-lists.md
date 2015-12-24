@@ -13,6 +13,7 @@ These are partial lists of US government APIs.
   * [APIs.io API, filted for a search query of .gov](http://apis.io/api/search?q=.gov&limit=1000)
 * [PublicAPIs.com](https://www.publicapis.com/search?keyword=federal)
 * [FedAPI.io](https://fedapi.io/www/)
+* [APIs.guru](https://github.com/APIs-guru/api-models)
 * _[What others exist?](https://github.com/unitedstates/APIs/issues/8)_  
 
 ### Notes 
